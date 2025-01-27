@@ -1,0 +1,80 @@
+---
+title: |
+  Idioms (Part 1)
+date: '2025-01-21'
+date-modified: last-modified
+date-format: "DD-MM-YYYY"
+description: |
+  Idioms are phrases that have a figurative meaning that is different from the literal meaning of the individual words. 
+  All languages have their own idioms to express a situation. 
+  This tutorial will go through some basic aspects of most commonly used idioms in English.
+image: idioms.png
+categories: [tutor, English]
+format: 
+  html:
+    embed-resources: true
+    smooth-scroll: true
+    fontcolor: black
+    toc: true
+    toc-location: right
+    toc-title: Contents
+    toc-depth: 3
+  pdf:
+    toc: false
+    include-before-body: 
+      text: |
+        \thispagestyle{fancy}
+    include-in-header: 
+      text: |
+        \usepackage{graphicx}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhf{} 
+        \fancyfoot[R]{\includegraphics[height=2.5cm]{Hello_Talk.png}\includegraphics[height=2.5cm]{Red_Note.png}}
+---
+
+# What are idioms
+
+**Idioms** are phrases that have a *figurative meaning* that is different from the *literal meaning* of the individual words. All languages have their own idioms to express a situation.
+
+- **Literal meaning:** The actual, dictionary definition of each word.
+- **Figurative meaning:** The implied or metaphorical meaning of the phrase as a whole.
+
+`"lt's raining cats and dogs"`
+
+- **Literal meaning:** Animals are falling from the sky! (Obviously not true)
+- **Figurative meaning:** lt's raining very heavily or in certain scenarios raining all day.
+
+# The difference between slang and idioms
+- **Slang:** Informal words or phrases used by a specific group (teenagers, gamers, etc.). - *Cool words that change a lot, used bycertain groups.*
+  - **Examples:**  *Chill*, *lit*, *bruh*
+  - **Key:**  Often changes quickly and is specific to a certain group.
+- **Idioms:**  *Phrases with hidden meanings, like puzzles you have to figure out.*
+
+# Common idioms in English
+
+ID|Idiom|Meaning|Example
+-|-|-|-
+1|**A blessing in disguise**|Something good that seemed bad at first.|Losing my job turned out to be *a blessing in disguise*. It forced me to pursue my passion for photography.
+2|**Beat around the bush**|To avoid saying what you mean directly.|Stop *beating around the bush* and tell me what you want.
+3|**Better late than never**|It's better to arrive or do something late than not at all.| I know I'm late, but *better late than never*.
+4|**Break a leg**|Good luck (especially to actors before a performance).|*Break a leg* tonight!
+5|**Call it a day**|To stop working on something for the day.|I'm tired. Let's *call it a day* and go home."
+6|**Cutting corners**|Doing something poorly in order to save time or money.|The contractor *cut corners* on the construction, and now the house is falling.
+7|**Easy does it**|Slow down.|*Easy does it*! You're going too fast.
+8|**Get out of hand**|To get out of control.|The party *got out of hand* and the neighbors complained.
+9|**Get something out of your system**|To do the thing you've been wanting to do so you can move on.|I finally *got skydiving out of my system*.
+10|**Get your act together**|To work better or leave.|You need to *get your act together* if you want to keep this job.
+11|**Give someone the benefit of the doubt**|To trust what someone says.|I'm going to *give him the benefit of the doubt* and believe his explanation.
+12|**Hit the sack**|To go to sleep.|I'm tired. I'm going to *hit the sack*.
+13|**It's not rocket science**|It's not complicated.|*It's not rocket science*, just follow the instructions.
+14|**Let someone off the hook**|To not hold someone responsible for something.|I'll *let you off the hook* this time, but don't let it happen again.
+15|**Pull yourself together**|Calm down.|*Pull yourself together*! There's no need to cry.
+16|**So far so good**|Things are going well so far.|*So far so good*, but I'm not sure how the rest of the day will go.
+17|**Speak of the devil**|The person we were just talking about showed up!|*Speak of the devil*, here she is now.
+18|**That's the last straw**|My patience has run out.|*That's the last straw*. I'm not putting up with this anymore.
+19|**The best of both worlds**|An ideal situation.|Working from home gives me *the best of both worlds*: flexibility and a quiet workspace.
+20|**Time flies when you're having fun**| You don't notice how long something lasts when it's fun.|*Time flies when you're having fun*, I can't believe it's already midnight.
+21|**Under the weather**|Sick.|I'm feeling a bit *under the weather* today.
+22|**You can say that again**|That's true, I agree.|*You can say that again*! This is the best ice cream I've ever had.
+: {tbl-colwidths="[5,20,35,40]"}

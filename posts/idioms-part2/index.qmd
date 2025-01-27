@@ -1,0 +1,64 @@
+---
+title: |
+  Idioms (Part 2)
+date: '2025-01-24'
+date-modified: last-modified
+date-format: "DD-MM-YYYY"
+description: |
+  Idioms are phrases that have a figurative meaning that is different from the literal meaning of the individual words. 
+  All languages have their own idioms to express a situation. 
+  This tutorial will go through some basic aspects of most commonly used idioms in English.
+image: idioms.png
+categories: [tutor, English]
+format: 
+  html:
+    embed-resources: true
+    smooth-scroll: true
+    fontcolor: black
+    toc: true
+    toc-location: right
+    toc-title: Contents
+    toc-depth: 3
+  pdf:
+    toc: false
+    include-before-body: 
+      text: |
+        \thispagestyle{fancy}
+    include-in-header: 
+      text: |
+        \usepackage{graphicx}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhf{} 
+        \fancyfoot[R]{\includegraphics[height=2.5cm]{Hello_Talk.png}\includegraphics[height=2.5cm]{Red_Note.png}}
+---
+
+# Common idioms in English
+
+ID|Idiom|Meaning|Example
+-|-|-|-
+1| **Hang in there**| Don't give up.| "*Hang in there*, things will get better."                                                    
+2| **Make a long story short**| To tell something briefly.| "*Make a long story short*, we missed the train."                                          
+3| **No pain, no gain**| You have to work for what you want.| "*No pain, no gain*. If you want to get fit, you have to exercise."                           
+4| **Pull someone's leg**| To joke with someone.| "*I was just pulling your leg*. I didn't really win the lottery."                             
+5| **To make matters worse**| Make a problem worse.| "*To make matters worse*, it started to rain."                                                
+6| **We'll cross that bridge when we come to it** | Let's not talk about that problem right now.| "We'll cross that bridge when we come to it*. Let's focus on finishing this project first."  
+7| **Wrap your head around something**| Understand something complicated.| "I'm still trying to *wrap my head around this new technology*."                              
+8| **Actions speak louder than words**| What you do is more important than what you say.| "He always promises to help, but his *actions speak louder than words*."                      
+9| **Add fuel to the fire**| To make a situation worse.| "His criticism just *added fuel to the fire* and made her even angrier."                      
+10| **All hands on deck**| Everyone needs to help.| "*It's time for all hands on deck* to clean up after the party."                              
+11| **Apple of my eye**| Someone or something that is very special and loved.| "Her little dog is the *apple of her eye*."                                                   
+12| **Back to square one** | To have to start over again.| "Our plan didn't work, so we have to *go back to square one*."                                
+13| **Barking up the wrong tree**| To be looking for the answer in the wrong place.| "*You're barking up the wrong tree*. He wouldn't have done that."                             
+14| **Bend over backwards**| To try very hard to help or please someone.| "*I bent over backwards* to make sure she was happy."                                         
+15| **Cost an arm and a leg**| To be very expensive.| "That car *cost me an arm and a leg*."                                                        
+16| **Cry over spilled milk**| To worry about something that has already happened and cannot be changed.| "*Don't cry over spilled milk*. Just clean it up and move on."                            
+17| **Curiosity killed the cat**| Being too curious can get you into trouble.| "*Don't be so curious. Curiosity killed the cat*."                                            
+18| **Face the music**| To accept the consequences of your actions.| "I know I made a mistake, so I'm ready to *face the music*."                                  
+19| **First come, first served**| The first people in line will get what they want.| "Tickets for the concert are *first come, first served*."                                     
+20| **Get a taste of your own medicine**| To experience the same unpleasant treatment that you have given to others.| "He was always playing pranks on me, so I decided to *give him a taste of his own medicine*." 
+21| **Give someone the cold shoulder**| To ignore someone deliberately.| "*I gave him the cold shoulder* after he lied to me."                                         
+22| **Hold your horses**| To wait a moment; be patient.| "*Hold your horses*! I'm not finished talking."                                               
+23| **In a nutshell**| Briefly and concisely.| "*In a nutshell*, the plan is to increase sales by 20%."                                      
+24| **It takes two to tango**| Both people involved in a situation are responsible for it.| "*It takes two to tango*. You can't blame him for the argument if you were also part of it."  
+: {tbl-colwidths="[5,20,35,40]"}

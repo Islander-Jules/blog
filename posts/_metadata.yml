@@ -1,0 +1,33 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: true
+
+author:
+  - name: "Jules"
+    corresponding: true
+    email: jules@gmail.com
+    
+
+number-sections: true
+back-to-top-navigation: true
+# comments:
+#   giscus: 
+#     repo: hxfan1227/hxfan1227.github.io
+#     repo-id: R_kgDONd182g
+#     theme: dark
+#     category: "Blog posts"
+#     category-id: DIC_kwDONd182s4CmVHE
+
+knitr:
+  opts_chunk: 
+    collapse: true
+    comment: "#>"
+
+execute: 
+  warning: false
+  message: false
