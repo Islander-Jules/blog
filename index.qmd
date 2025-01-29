@@ -42,9 +42,9 @@ about:
 </div>
 
 ::: {style="flex: 1;"}
-Hello there and welcome!
+Hello there and welcome 👋!
 
-I'm Jules, a ***native English speaker*** and ***polyglot*** originally from the UK. I am currently a Masters degree student in China studying ***Traditional Chinese Medicine***. I primarily focus in Acupuncture and academic research. A little about me is that I’m a *humble* and *simple* individual, I’m a big fan of art, and I definitely enjoy the small things in life!
+I'm Jules, a ***native English speaker*** {{< iconify fluent-emoji:girl-medium-light >}} and ***polyglot*** originally from the UK {{< iconify flagpack:gb >}}. I am currently a Masters degree student in China studying ***Traditional Chinese Medicine*** {{< iconify fluent-emoji:stethoscope >}}. I primarily focus in Acupuncture and academic research. A little about me is that I’m a *humble* and *simple* individual, I’m a big fan of art, and I definitely enjoy the small things in life!
 
 I have a passion for helping others improve their language skills. Whether you're a beginner or an advanced learner, I'm here to provide you with high-quality resources, engaging lessons, and expert guidance on your English learning journey. Explore my website to find a wealth of resources, including ***grammar explanations***, ***vocabulary lists***, ***reading comprehension exercises***, and much more. Learning English can be a challenging but rewarding experience, and I'm here to make it fun and accessible. I believe in a personalized approach to learning, so you'll find a variety of resources to suit your individual needs and learning style. Let the fun begin, and let's learn English together!
 
@@ -54,44 +54,33 @@ I have a passion for helping others improve their language skills. Whether you'r
 :::
 ::::
 
-<!-- :::: {.grid} -->
+:::: {.grid}
 
-<!-- ::: {.g-col-12 .g-col-md-8 style="text-align: left;"} -->
+::: {.g-col-12 .g-col-md-8 style="text-align: left;"}
 
-<!-- ## Education -->
+## Languages I can speak:
 
-<!-- - **_Ph.D._ in Physical Ggeography**, **2019**   -->
+-  {{< iconify flagpack:gb >}} **English** (native)
 
-<!--   *University Chinese Academy of Sciences, Beijing, China* -->
+-  {{< iconify flagpack:fr >}} **French** 
 
-<!-- - **_M.Sc._ in Physical Geography**, **2016**   -->
+-  {{< iconify flagpack:gb >}} **Creole** 
 
-<!--   *University Chinese Academy of Sciences, Beijing, China* -->
+-  {{< iconify flagpack:es >}} **Spanish** 
 
-<!-- - **_B.Sc._ in Enviromental Engineering**, **2013**   -->
+-  {{< iconify flagpack:cn >}} **Chinese** 
+:::
 
-<!--   *Huazhong Agriclutural University, Wuhan, China* -->
+::: {.g-col-12 .g-col-md-4 style="text-align: left;"}
 
-<!-- ::: -->
+## Teaching focuses:
 
-<!-- ::: {.g-col-12 .g-col-md-4 style="text-align: left;"} -->
+- ***grammar explanations***
 
-<!-- ## Interests -->
+- ***vocabulary lists***
 
-<!-- - Badminton -->
+- ***reading comprehension exercises***
 
-<!-- - Coding -->
+:::
 
-<!-- - Numerical modelling -->
-
-<!-- - Data Analysis -->
-
-<!-- - Data visualization -->
-
-<!-- - Knowledge sharing -->
-
-<!-- - Learning new skills -->
-
-<!-- ::: -->
-
-<!-- :::: -->
+::::
