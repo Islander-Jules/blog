@@ -3,7 +3,7 @@ project:
   output-dir: "docs"
 website:
   title: "Jules"
-  description: "An English learning blog and portfolio of Hongxiang Fan"
+  description: "An English learning blog and portfolio of Jules"
   # image: /assets/images/social-profile.png
   # site-url: hxfan1227.github.io
   # repo-url: https://github.com/hxfan1227/hxfan1227.github.io
@@ -77,6 +77,6 @@ lightbox: auto
 editor: source
 
 execute:
-  freeze: true
+  freeze: auto
 
 

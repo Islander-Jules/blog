@@ -1,0 +1,119 @@
+---
+title: |
+  Emotions (Part 1)
+date: '2025-01-31'
+date-modified: last-modified
+date-format: "DD-MM-YYYY"
+description: |
+  Emotions
+image: happy_sad.png
+categories: [tutor, English]
+format: 
+  html:
+    embed-resources: true
+    smooth-scroll: true
+    fontcolor: black
+    toc: true
+    toc-location: right
+    toc-title: Contents
+    toc-depth: 3
+  pdf:
+    toc: false
+    include-before-body: 
+      text: |
+        \thispagestyle{fancy}
+    include-in-header: 
+      text: |
+        \usepackage{graphicx}
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhf{} 
+        \fancyfoot[R]{\includegraphics[height=2.5cm]{Hello_Talk.png}\includegraphics[height=2.5cm]{Red_Note.png}}
+---
+
+```{r, include=FALSE}
+library(tidyverse)
+library(thematic)
+library(showtext)
+font_add_google("Pangolin", "Pangolin")
+```
+
+
+![](happy_sad.png){width=100%, fig-align="center"}
+
+# Levels of emotions
+
+```{r, include=FALSE}
+sads <- c('sad', 'unhappy', 'gloomy', 'sorrowful', 'dejected', 'miserable', 'heartbroken', 'depressed')
+joys <- c('happy', 'cheerful', 'joyful', 'delighted', 'elated', 'thrilled', 'ecstatic', 'overjoyed')
+df <- data.frame(
+  happy = sapply(joys, function(word) {
+    paste0("[", word, "](https://www.merriam-webster.com/dictionary/", word, ")")
+}),
+  sad = sapply(sads, function(word) {
+    paste0("[", word, "](https://www.merriam-webster.com/dictionary/", word, ")")
+}), row.names = NULL
+)
+```
+
+
+```{r, echo=FALSE, fig.showtext=T, fig.align='center'}
+knitr::kable(df, escape = FALSE, align = 'c')
+words <- data.frame(sad = sads,
+                    happy = joys,
+                  level = c(1:8))
+thematic_on(font = 'Pangolin')
+ggplot(words, aes(y = level, size = level)) +
+  geom_text(aes(label = happy, x = 0.2, color = level)) +
+  geom_text(aes(label = sad, x = 0.8, color = level)) +
+  geom_vline(aes(xintercept = 0.5)) +
+  scale_color_gradientn(colors = blues9[4:9], guide = 'none') +
+  scale_size(range = c(4, 10), guide = 'none') +
+  coord_cartesian(xlim = c(0, 1), ylim = c(0.5, 8.5), expand = F) +
+  theme_void() +
+  theme(panel.background = element_rect(fill = '#fafafa'))
+```
+# Examples
+
+## Happy
+
+- "I was happy to see my friend, but I was overjoyed when they surprised me with tickets to the concert." 
+
+::: {.callout-tip collapse="true"}
+Happy is a baseline, overjoyed is a much stronger level of happiness.
+:::
+
+- "She felt cheerful after a good workout, but she was ecstatic when she learned she got the job she had been hoping for." 
+
+::: {.callout-tip collapse="true"}
+Cheerful is a mild happiness, ecstatic is an intense, overwhelming joy.
+:::
+
+- "He was delighted to receive a birthday card, but he was thrilled to win the lottery." 
+
+::: {.callout-tip collapse="true"}
+Delighted is a pleasant level of happiness, thrilled is an exciting and exhilarating feeling.
+:::
+
+## Sad
+
+- "I felt sad when it rained on my picnic, but I was heartbroken when my pet died." 
+
+::: {.callout-tip collapse="true"}
+Sad is a general feeling of unhappiness, while heartbroken is a much deeper and more intense sadness.
+:::
+
+- "She was unhappy about the traffic delay, but she was miserable after losing her job." 
+
+::: {.callout-tip collapse="true"}
+Unhappy is a mild form of discontent, while miserable describes a state of extreme unhappiness and discomfort.
+:::
+
+- "He felt dejected after losing the game, but he was depressed for weeks after the breakup." 
+
+::: {.callout-tip collapse="true"}
+Dejected is a feeling of sadness and discouragement, while depressed is a more severe and persistent state of sadness.
+:::
+
+
+

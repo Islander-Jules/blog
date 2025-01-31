@@ -1,13 +1,13 @@
 ---
 title: |
-  Idioms (Part 1)
+  Emotions (Part 1)
 date: '2025-01-21'
 date-modified: last-modified
 date-format: "DD-MM-YYYY"
 description: |
-  Idioms are phrases that have a figurative meaning that is different from the literal meaning of the individual words. 
-  All languages have their own idioms to express a situation. 
-  This tutorial will go through some basic aspects of most commonly used idioms in English.
+        Idioms are phrases that have a figurative meaning that is different from the literal meaning of the individual words. 
+        All languages have their own idioms to express a situation. 
+        This tutorial will go through some basic aspects of most commonly used idioms in English.
 image: idioms.png
 categories: [tutor, English]
 format: 
