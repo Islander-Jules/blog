@@ -1,11 +1,13 @@
 ---
 title: |
-  Emotions (Part 1)
+  General Emotions
 date: '2025-01-31'
 date-modified: last-modified
 date-format: "DD-MM-YYYY"
 description: |
-  Emotions
+  Emotions are the vibrant colors that paint our lives. 
+  They are complex and ever-changing, driving our thoughts, behaviors, 
+  and interactions with the world around us.
 image: happy_sad.png
 categories: [tutor, English]
 format: 
@@ -38,10 +40,58 @@ library(showtext)
 font_add_google("Pangolin", "Pangolin")
 ```
 
+# General emotions
+
+When we look at our primary emotions we also feel a wide range of nuanced feelings.
+
+```{r, echo=F}
+pe <- c('Happiness', 'Sadness', 'Anger', 'Fear', 'Surprised', '')
+nf <- c('Excitment', 'Relaxation', 'Confusion', 'Disappointment', 'Embarrassment', 'Pride')
+df <- data.frame('Primary Emotions' = pe, 'Nuanced Feelings' = nf, row.names = NULL)
+knitr::kable(df, escape = FALSE, align = 'c')
+```
+
+::: {.callout-note}
+You can categorize these emotions into 3 groups: 
+
+- Baseline Emotions
+- Midline Emotions
+- Apex Emotions. 
+
+This classification refers to the intensity of emotions, ranging from mild to extreme. 
+:::
+
+::: {.callout-note}
+Emotions often exist on a spectrum, varying in strength and impact. 
+The magnitude of emotions can be influenced by personal sensitivity, context, or external factors, causing them to fluctuate in depth and duration. 
+:::
+ 
+We will explore the most commonly used words to express emotions based on their intensity.
+
+```{r, echo=F}
+create_links <- function(phrase) {
+  words_in_phrase <- unlist(strsplit(phrase, " / "))
+  links <- sapply(words_in_phrase, function(word) {
+    paste0("[", word, "](https://www.merriam-webster.com/dictionary/", gsub(" ", "%20", word), ")")
+  })
+  paste(links, collapse=" / ") 
+}
+
+emo <- c('Happiness', 'Sadness', 'Anger', 'Fear', 'Surprised', 'Excitment', 'Relaxation', 'Confusion', 'Disappointment', 'Embarrassment', 'Pride')
+mild <- c('Happy / Cheerful', 'Sad / Unhappy / Gloomy', 'Annoyed / Frustrated', 'Scared / Worried', 'Surprised / Startled', 'Excited / Eager', 'Relaxed / At ease', 'Confused', 'Disappointed', 'Embarrassed', 'Proud')
+mode <- c('Joyful / Delighted / Elated', 'Sorrowful / Dejected / Miserable', 'Angry / Mad / Indignant', 'Afraid / Anxious / Alarmed', 'Astonished / Stunned', 'Enthusiastic / Pumped', 'Calm / Peaceful', 'Puzzled / Bewildered', 'Letdown / Disheartened', 'Ashamed', 'Pleased / Gratified')
+high <- c('Thrilled / Overjoyed / Ecstatic', 'Heartbroken / Depressed', 'Furious / Enraged / Irate', 'Frightened / Terrified', 'Amazed / Shocked', 'Stoked', 'Tranquil', 'Perplexed', 'Crestfallen', 'Humiliated / Mortified', 'Triumphant')
+df <- data.frame(Emotion = emo, Mild = mild, Moderate = mode, High = high) %>% 
+  rowwise() %>% 
+  mutate(Mild = create_links(Mild),
+         Moderate = create_links(Moderate),
+         High = create_links(High))
+knitr::kable(df, escape = FALSE, align = 'c')
+```
+
+# Happy \& Sad
 
 ![](happy_sad.png){width=100%, fig-align="center"}
-
-# Levels of emotions
 
 ```{r, include=FALSE}
 sads <- c('sad', 'unhappy', 'gloomy', 'sorrowful', 'dejected', 'miserable', 'heartbroken', 'depressed')
