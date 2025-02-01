@@ -37,6 +37,7 @@ library(tidyverse)
 library(thematic)
 library(showtext)
 font_add_google("Pangolin", "Pangolin")
+showtext_auto()
 ```
 
 # General emotions
