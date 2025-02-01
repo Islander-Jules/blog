@@ -18,6 +18,31 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           tinytex: true
+          
+      - name: Install additional LaTeX packages
+        run: |
+          tlmgr update --all --self
+          tlmgr install eurosym \
+                        adjustbox \
+                        caption \
+                        collectbox \
+                        enumitem \
+                        environ \
+                        fp \
+                        jknapltx \
+                        ms \
+                        parskip \
+                        pgf \
+                        rsfs \
+                        tcolorbox \
+                        titling \
+                        trimspaces \
+                        ucs \
+                        ulem \
+                        upquote \
+                        collection-fontsrecommended \
+                        tcolorbox \
+                        mathpazo
         
       - name: Install system dependencies
         run: |
