@@ -12,7 +12,6 @@ image: happy_sad.png
 categories: [tutor, English]
 format: 
   html:
-    embed-resources: true
     smooth-scroll: true
     fontcolor: black
     toc: true
@@ -164,6 +163,4 @@ Unhappy is a mild form of discontent, while miserable describes a state of extre
 ::: {.callout-tip collapse="true"}
 Dejected is a feeling of sadness and discouragement, while depressed is a more severe and persistent state of sadness.
 :::
-
-
 

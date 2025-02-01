@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: "docs"
 website:
   title: "Jules"
   description: "An English learning blog and portfolio of Jules"
