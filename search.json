@@ -1,108 +1,234 @@
 [
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-happiness",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-happiness",
     "title": "Quiz about emotions",
-    "section": "1 Which one represents the highest level of happiness?",
-    "text": "1 Which one represents the highest level of happiness?\n\ncheerful\nelated\noverjoyed\ndelighted\nthrilled"
+    "section": "1 Which best represents the mild level of happiness?",
+    "text": "1 Which best represents the mild level of happiness?\n\nElated\nDelighted\nHappy\nOverjoyed"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-sadness",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-sadness",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-happiness",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-happiness",
     "title": "Quiz about emotions",
-    "section": "2 Which one represents the highest level of sadness?",
-    "text": "2 Which one represents the highest level of sadness?\n\nunhappy\ndepressed\nheartbroken\nsorrowful\ndejected"
+    "section": "2 Which best represents the moderate level of happiness?",
+    "text": "2 Which best represents the moderate level of happiness?\n\nOverjoyed\nThrilled\nCheerful\nDelighted"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-1",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-1",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-happiness",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-happiness",
     "title": "Quiz about emotions",
-    "section": "3 Which one represents the highest level of happiness?",
-    "text": "3 Which one represents the highest level of happiness?\n\nelated\nthrilled\ncheerful\nhappy\noverjoyed"
+    "section": "3 Which best represents the high level of happiness?",
+    "text": "3 Which best represents the high level of happiness?\n\nOverjoyed\nHappy\nCheerful\nElated"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-2",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-2",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-sadness",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-sadness",
     "title": "Quiz about emotions",
-    "section": "4 Which one represents the highest level of happiness?",
-    "text": "4 Which one represents the highest level of happiness?\n\nhappy\noverjoyed\necstatic\nthrilled\njoyful"
+    "section": "4 Which best represents the mild level of sadness?",
+    "text": "4 Which best represents the mild level of sadness?\n\nMiserable\nSorrowful\nDepressed\nGloomy"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-lowest-level-of-happiness",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-lowest-level-of-happiness",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-sadness",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-sadness",
     "title": "Quiz about emotions",
-    "section": "5 Which one represents the lowest level of happiness?",
-    "text": "5 Which one represents the lowest level of happiness?\n\necstatic\ncheerful\nhappy\nelated\nthrilled"
+    "section": "5 Which best represents the moderate level of sadness?",
+    "text": "5 Which best represents the moderate level of sadness?\n\nSad\nMiserable\nDepressed\nUnhappy"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-lowest-level-of-sadness",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-lowest-level-of-sadness",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-sadness",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-sadness",
     "title": "Quiz about emotions",
-    "section": "6 Which one represents the lowest level of sadness?",
-    "text": "6 Which one represents the lowest level of sadness?\n\nsad\ndepressed\nunhappy\nheartbroken\ngloomy"
+    "section": "6 Which best represents the high level of sadness?",
+    "text": "6 Which best represents the high level of sadness?\n\nSad\nSorrowful\nMiserable\nHeartbroken"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-lowest-level-of-happiness-1",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-lowest-level-of-happiness-1",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-anger",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-anger",
     "title": "Quiz about emotions",
-    "section": "7 Which one represents the lowest level of happiness?",
-    "text": "7 Which one represents the lowest level of happiness?\n\nthrilled\njoyful\ncheerful\necstatic\ndelighted"
+    "section": "7 Which best represents the mild level of anger?",
+    "text": "7 Which best represents the mild level of anger?\n\nIndignant\nFurious\nAnnoyed\nAngry"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-sadness-1",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-sadness-1",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-anger",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-anger",
     "title": "Quiz about emotions",
-    "section": "8 Which one represents the highest level of sadness?",
-    "text": "8 Which one represents the highest level of sadness?\n\nheartbroken\ndejected\nunhappy\ndepressed\ngloomy"
+    "section": "8 Which best represents the moderate level of anger?",
+    "text": "8 Which best represents the moderate level of anger?\n\nAngry\nIrate\nFurious\nAnnoyed"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-3",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-3",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-anger",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-anger",
     "title": "Quiz about emotions",
-    "section": "9 Which one represents the highest level of happiness?",
-    "text": "9 Which one represents the highest level of happiness?\n\ncheerful\noverjoyed\nelated\nhappy\ndelighted"
+    "section": "9 Which best represents the high level of anger?",
+    "text": "9 Which best represents the high level of anger?\n\nEnraged\nIndignant\nMad\nAnnoyed"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-4",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-4",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-fear",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-fear",
     "title": "Quiz about emotions",
-    "section": "10 Which one represents the highest level of happiness?",
-    "text": "10 Which one represents the highest level of happiness?\n\njoyful\necstatic\ncheerful\nthrilled\ndelighted"
+    "section": "10 Which best represents the mild level of fear?",
+    "text": "10 Which best represents the mild level of fear?\n\nTerrified\nScared\nFrightened\nAlarmed"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-lowest-level-of-sadness-1",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-lowest-level-of-sadness-1",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-fear",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-fear",
     "title": "Quiz about emotions",
-    "section": "11 Which one represents the lowest level of sadness?",
-    "text": "11 Which one represents the lowest level of sadness?\n\nheartbroken\nunhappy\nmiserable\nsorrowful\ndejected"
+    "section": "11 Which best represents the moderate level of fear?",
+    "text": "11 Which best represents the moderate level of fear?\n\nFrightened\nAfraid\nTerrified\nWorried"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-lowest-level-of-happiness-2",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-lowest-level-of-happiness-2",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-fear",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-fear",
     "title": "Quiz about emotions",
-    "section": "12 Which one represents the lowest level of happiness?",
-    "text": "12 Which one represents the lowest level of happiness?\n\nhappy\ncheerful\noverjoyed\njoyful\ndelighted"
+    "section": "12 Which best represents the high level of fear?",
+    "text": "12 Which best represents the high level of fear?\n\nTerrified\nWorried\nAnxious\nAlarmed"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-sadness-2",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-sadness-2",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-surprised",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-surprised",
     "title": "Quiz about emotions",
-    "section": "13 Which one represents the highest level of sadness?",
-    "text": "13 Which one represents the highest level of sadness?\n\nsorrowful\ndepressed\nunhappy\ngloomy\nsad"
+    "section": "13 Which best represents the mild level of surprised?",
+    "text": "13 Which best represents the mild level of surprised?\n\nAmazed\nAstonished\nStartled\nShocked"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-5",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-5",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-surprised",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-surprised",
     "title": "Quiz about emotions",
-    "section": "14 Which one represents the highest level of happiness?",
-    "text": "14 Which one represents the highest level of happiness?\n\ncheerful\njoyful\nelated\nthrilled\necstatic"
+    "section": "14 Which best represents the moderate level of surprised?",
+    "text": "14 Which best represents the moderate level of surprised?\n\nAmazed\nSurprised\nShocked\nAstonished"
   },
   {
-    "objectID": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-6",
-    "href": "quizes/emotion_quiz_part1/index.html#which-one-represents-the-highest-level-of-happiness-6",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-surprised",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-surprised",
     "title": "Quiz about emotions",
-    "section": "15 Which one represents the highest level of happiness?",
-    "text": "15 Which one represents the highest level of happiness?\n\nthrilled\necstatic\njoyful\ncheerful\nelated"
+    "section": "15 Which best represents the high level of surprised?",
+    "text": "15 Which best represents the high level of surprised?\n\nAstonished\nStunned\nAmazed\nSurprised"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-excitment",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-excitment",
+    "title": "Quiz about emotions",
+    "section": "16 Which best represents the mild level of excitment?",
+    "text": "16 Which best represents the mild level of excitment?\n\nExcited\nStoked\nEnthusiastic\nPumped"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-excitment",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-excitment",
+    "title": "Quiz about emotions",
+    "section": "17 Which best represents the moderate level of excitment?",
+    "text": "17 Which best represents the moderate level of excitment?\n\nExcited\nEnthusiastic\nStoked\nEager"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-excitment",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-excitment",
+    "title": "Quiz about emotions",
+    "section": "18 Which best represents the high level of excitment?",
+    "text": "18 Which best represents the high level of excitment?\n\nEnthusiastic\nStoked\nEager\nExcited"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-relaxation",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-relaxation",
+    "title": "Quiz about emotions",
+    "section": "19 Which best represents the mild level of relaxation?",
+    "text": "19 Which best represents the mild level of relaxation?\n\nAt ease\nPeaceful\nCalm\nTranquil"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-relaxation",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-relaxation",
+    "title": "Quiz about emotions",
+    "section": "20 Which best represents the moderate level of relaxation?",
+    "text": "20 Which best represents the moderate level of relaxation?\n\nTranquil\nRelaxed\nAt ease\nPeaceful"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-relaxation",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-relaxation",
+    "title": "Quiz about emotions",
+    "section": "21 Which best represents the high level of relaxation?",
+    "text": "21 Which best represents the high level of relaxation?\n\nPeaceful\nCalm\nAt ease\nTranquil"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-confusion",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-confusion",
+    "title": "Quiz about emotions",
+    "section": "22 Which best represents the mild level of confusion?",
+    "text": "22 Which best represents the mild level of confusion?\n\nBewildered\nConfused\nPuzzled\nPerplexed"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-confusion",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-confusion",
+    "title": "Quiz about emotions",
+    "section": "23 Which best represents the moderate level of confusion?",
+    "text": "23 Which best represents the moderate level of confusion?\n\nPuzzled\nPerplexed\nConfused\nPerplexed"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-confusion",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-confusion",
+    "title": "Quiz about emotions",
+    "section": "24 Which best represents the high level of confusion?",
+    "text": "24 Which best represents the high level of confusion?\n\nBewildered\nConfused\nPerplexed\nPuzzled"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-disappointment",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-disappointment",
+    "title": "Quiz about emotions",
+    "section": "25 Which best represents the mild level of disappointment?",
+    "text": "25 Which best represents the mild level of disappointment?\n\nDisheartened\nLetdown\nDisappointed\nCrestfallen"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-disappointment",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-disappointment",
+    "title": "Quiz about emotions",
+    "section": "26 Which best represents the moderate level of disappointment?",
+    "text": "26 Which best represents the moderate level of disappointment?\n\nCrestfallen\nLetdown\nDisappointed\nDisappointed"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-disappointment",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-disappointment",
+    "title": "Quiz about emotions",
+    "section": "27 Which best represents the high level of disappointment?",
+    "text": "27 Which best represents the high level of disappointment?\n\nCrestfallen\nDisappointed\nLetdown\nDisheartened"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-embarrassment",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-embarrassment",
+    "title": "Quiz about emotions",
+    "section": "28 Which best represents the mild level of embarrassment?",
+    "text": "28 Which best represents the mild level of embarrassment?\n\nHumiliated\nEmbarrassed\nAshamed\nMortified"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-embarrassment",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-embarrassment",
+    "title": "Quiz about emotions",
+    "section": "29 Which best represents the moderate level of embarrassment?",
+    "text": "29 Which best represents the moderate level of embarrassment?\n\nAshamed\nEmbarrassed\nHumiliated\nMortified"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-embarrassment",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-embarrassment",
+    "title": "Quiz about emotions",
+    "section": "30 Which best represents the high level of embarrassment?",
+    "text": "30 Which best represents the high level of embarrassment?\n\nAshamed\nHumiliated\nEmbarrassed\nAshamed"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-pride",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-mild-level-of-pride",
+    "title": "Quiz about emotions",
+    "section": "31 Which best represents the mild level of pride?",
+    "text": "31 Which best represents the mild level of pride?\n\nGratified\nProud\nPleased\nTriumphant"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-pride",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-moderate-level-of-pride",
+    "title": "Quiz about emotions",
+    "section": "32 Which best represents the moderate level of pride?",
+    "text": "32 Which best represents the moderate level of pride?\n\nTriumphant\nProud\nPleased\nProud"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-pride",
+    "href": "quizes/emotion_quiz_part1/index.html#which-best-represents-the-high-level-of-pride",
+    "title": "Quiz about emotions",
+    "section": "33 Which best represents the high level of pride?",
+    "text": "33 Which best represents the high level of pride?\n\nTriumphant\nPleased\nProud\nGratified"
   },
   {
     "objectID": "posts/idioms-part1/index.html",
@@ -144,7 +270,7 @@
     "href": "quiz.html",
     "title": "Quiz",
     "section": "",
-    "text": "Quiz about emotions\n\n\nHappiness and Sadness\n\n\n\n\n\n\n\n\nSunday, the 2nd of February, 2025\n\n\nJules\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Quiz about emotions\n\n\nFind out the right intensity of emotions\n\n\n\n\n\n\n\n\nSunday, the 2nd of February, 2025\n\n\nJules\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "index.html",
