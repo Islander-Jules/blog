@@ -46,6 +46,6 @@ data <- data.frame(
   stringsAsFactors = FALSE
 )
 cat(
-  generate_quiz_questions(20, data)
+  generate_quiz_questions(15, data)
 )
 ```
