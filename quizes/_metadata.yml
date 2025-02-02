@@ -11,15 +11,12 @@ author:
   - name: "Jules"
     corresponding: true
     email: Beauvallonsector@gmail.com
+    url: "https://islander-jules.github.io/blog/"
+    
     
 
 number-sections: true
 back-to-top-navigation: true
-
-comments:
-  giscus:
-    repo: Islander-Jules/blog
-    theme: light_high_contrast
 
 knitr:
   opts_chunk: 

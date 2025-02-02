@@ -25,6 +25,8 @@ website:
         href: index.qmd
       - text: Blog
         href: blog.qmd
+      - text: Quiz
+        href: quiz.qmd
       # - text: CV
       #   href: cv.qmd
       # - text: Projects

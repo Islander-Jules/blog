@@ -1,0 +1,51 @@
+---
+title: "Quiz about emotions"
+subtitle: Happiness and Sadness
+categories: [quiz, English]
+format:
+  clean-revealjs:
+    quiz: 
+      checkKey: 'c'
+      resetKey: 'q'
+      shuffleKey: 't'
+      allowNumberKeys: true
+      disableOnCheck: false
+      disableReset: false
+      shuffleOptions: true
+      includeScore: true
+revealjs-plugins:
+  - quiz
+date: last-modified
+---
+
+```{r}
+#| include: false
+knitr::opts_chunk$set(
+  results = "asis",
+  eval = TRUE,
+  echo = FALSE,
+  message = FALSE,
+  error = FALSE,
+  warning = FALSE
+)
+
+invisible(sapply(
+  X = list.files(
+    path = file.path("assets", "R"),
+    pattern = "\\.R$",
+    full.names = TRUE
+  ),
+  FUN = source
+))
+```
+
+```{r}
+data <- data.frame(
+  sadness = c('sad', 'unhappy', 'gloomy', 'sorrowful', 'dejected', 'miserable', 'heartbroken', 'depressed'),
+  happiness = c('happy', 'cheerful', 'joyful', 'delighted', 'elated', 'thrilled', 'ecstatic', 'overjoyed'),
+  stringsAsFactors = FALSE
+)
+cat(
+  generate_quiz_questions(20, data)
+)
+```

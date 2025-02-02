@@ -1,0 +1,10 @@
+---
+title: "Quiz"
+page-layout: full
+title-block-banner: true
+listing:
+  contents: quizes
+  sort: "date desc"
+  type: default
+  fields: [image, date, title, author, reading-time, description]
+---
