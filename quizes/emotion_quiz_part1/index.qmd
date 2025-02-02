@@ -1,6 +1,6 @@
 ---
 title: "Quiz about emotions"
-subtitle: Happiness and Sadness
+subtitle: Find out the right intensity of emotions
 categories: [quiz, English]
 format:
   clean-revealjs:
@@ -9,7 +9,7 @@ format:
       resetKey: 'q'
       shuffleKey: 't'
       allowNumberKeys: true
-      disableOnCheck: false
+      disableOnCheck: true
       disableReset: false
       shuffleOptions: true
       includeScore: true
@@ -40,12 +40,7 @@ invisible(sapply(
 ```
 
 ```{r}
-data <- data.frame(
-  sadness = c('sad', 'unhappy', 'gloomy', 'sorrowful', 'dejected', 'miserable', 'heartbroken', 'depressed'),
-  happiness = c('happy', 'cheerful', 'joyful', 'delighted', 'elated', 'thrilled', 'ecstatic', 'overjoyed'),
-  stringsAsFactors = FALSE
-)
 cat(
-  generate_quiz_questions(15, data)
+  generate_quiz_questions()
 )
 ```

@@ -1,67 +1,123 @@
-generate_quiz_question <- function(data) {
-  # 随机选择讨论的类型
-  type <- sample(colnames(data), 1)
-  # 从对应列中随机抽取 5 个词作为选项
-  selected <- sample(data[[type]], 5)
+emotions_df <- structure(list(
+  Emotion = c("Happiness", "Sadness", "Anger", "Fear", 
+              "Surprised", "Excitment", "Relaxation", "Confusion", 
+              "Disappointment", "Embarrassment", "Pride"),
+  Mild = c("Happy / Cheerful", 
+           "Sad / Unhappy / Gloomy", 
+           "Annoyed / Frustrated", 
+           "Scared / Worried", 
+           "Surprised / Startled", 
+           "Excited / Eager", 
+           "Relaxed / At ease", 
+           "Confused", 
+           "Disappointed", 
+           "Embarrassed", 
+           "Proud"),
+  Moderate = c("Joyful / Delighted / Elated", 
+               "Sorrowful / Dejected / Miserable", 
+               "Angry / Mad / Indignant", 
+               "Afraid / Anxious / Alarmed", 
+               "Astonished / Stunned", 
+               "Enthusiastic / Pumped", 
+               "Calm / Peaceful", 
+               "Puzzled / Bewildered", 
+               "Letdown / Disheartened", 
+               "Ashamed", 
+               "Pleased / Gratified"),
+  High = c("Thrilled / Overjoyed / Ecstatic", 
+           "Heartbroken / Depressed", 
+           "Furious / Enraged / Irate", 
+           "Frightened / Terrified", 
+           "Amazed / Shocked", 
+           "Stoked", 
+           "Tranquil", 
+           "Perplexed", 
+           "Crestfallen", 
+           "Humiliated / Mortified", 
+           "Triumphant")
+), class = "data.frame", row.names = c(NA, -11L))
+
+# 辅助函数：去除字符串两端的空白字符
+trim <- function(x) gsub("^\\s+|\\s+$", "", x)
+
+# Function to generate a single quiz question.
+# Parameters:
+#   emotion: The emotion name (e.g., "Sadness")
+#   row_data: The row of the data frame corresponding to the emotion
+#   target_level: The target level for the question ("Mild", "Moderate", or "High")
+#   n_distractors: The number of distractor (incorrect) options to include.
+generate_question <- function(emotion, row_data, target_level, n_distractors = 2) {
+  levels_all <- c("Mild", "Moderate", "High")
   
-  # 随机决定题目是问“最高”还是“最低”
-  ask_high <- sample(c(TRUE, FALSE), 1)
+  # --- Select the correct option for the target level ---
+  # Split the text in the target cell and randomly choose one phrase as the correct answer.
+  target_variants <- trim(unlist(strsplit(as.character(row_data[[target_level]]), "/")))
+  correct_option <- sample(target_variants, 1)
   
-  # 根据原始数据中词语的排序确定正确答案
-  indices <- match(selected, data[[type]])
-  if (ask_high) {
-    correct <- selected[which.max(indices)]
-    question_text <- paste0("Which represents the **highest** level of **", type, "**?")
-  } else {
-    correct <- selected[which.min(indices)]
-    question_text <- paste0("Which represents the **lowest** level of **", type, "**?")
+  # Build the full explanation for a correct answer: show all valid phrases from the target level.
+  full_explanation <- paste0("Correct. ", paste(target_variants, collapse = ", "), ' can be used for ', tolower(target_level) , 'of ', tolower(emotion))
+  
+  # --- Build the distractor pool ---
+  # The distractor pool is made up of variants from the other (non-target) levels.
+  distractor_pool <- c()
+  distractor_levels <- c()
+  for (lev in levels_all[levels_all != target_level]) {
+    # Get the phrases for this level.
+    variants <- trim(unlist(strsplit(as.character(row_data[[lev]]), "/")))
+    distractor_pool <- c(distractor_pool, variants)
+    # Record the level for each variant.
+    distractor_levels <- c(distractor_levels, rep(lev, length(variants)))
   }
   
-  # 对选项按照原始数据顺序进行排序（从低到高）
-  sorted_selected <- selected[order(match(selected, data[[type]]))]
-  # 建立选项与排序位置的对应关系（1 表示最低，5 表示最高）
-  rank_map <- setNames(seq_along(sorted_selected), sorted_selected)
+  # Combine into a data frame for easy tracking.
+  distractor_df <- data.frame(option = distractor_pool, level = distractor_levels, stringsAsFactors = FALSE)
   
-  # 对正确答案，输出完整的正确顺序说明
-  correct_explanation <- paste("Correct answer. The correct order is:", paste(sorted_selected, collapse = ", "))
+  # Sample n_distractors from the pool.
+  if (nrow(distractor_df) < n_distractors) {
+    sampled_idx <- sample(1:nrow(distractor_df), n_distractors, replace = TRUE)
+  } else {
+    sampled_idx <- sample(1:nrow(distractor_df), n_distractors)
+  }
+  distractors <- distractor_df[sampled_idx, ]
   
+  # --- Combine the correct answer and distractors ---
+  # Create a data frame that includes both the correct option and the distractors.
+  # The correct option is tagged with the target level.
+  correct_df <- data.frame(option = correct_option, level = target_level, stringsAsFactors = FALSE)
+  combined_df <- rbind(correct_df, distractors)
+  
+  # Randomize the order of the options.
+  combined_df <- combined_df[sample(nrow(combined_df)), ]
+  
+  # --- Construct the question text ---
+  question_text <- paste0("Which best represents the **", tolower(target_level), "** level of *", tolower(emotion), "*?")
+  
+  # --- Output the quiz question in Markdown format ---
   cat("## ", question_text, " {.quiz-question}\n\n", sep = "")
-  for (option in selected) {
-    if (option == correct) {
-      # 正确选项：显示完整排序
-      explanation <- correct_explanation
-      cat(paste0("- [", option, "]{.correct data-explanation=\"", explanation, "\"}\n"))
+  
+  # For each option, set the explanation.
+  for (i in seq_len(nrow(combined_df))) {
+    opt <- combined_df$option[i]
+    opt_level <- combined_df$level[i]
+    if (opt == correct_option) {
+      explanation <- full_explanation
+      cat(paste0("- [", opt, "]{.correct data-explanation=\"", explanation, "\"}\n"))
     } else {
-      # 错误选项：与其他答案进行比较
-      current_rank <- rank_map[[option]]
-      if (ask_high) {
-        # 如果题目问最高程度，则比当前选项高的选项在排序中位于其后面
-        higher_options <- sorted_selected[which(seq_along(sorted_selected) > current_rank)]
-        if (length(higher_options) > 0) {
-          explanation <- paste(option, "is lower than", paste(higher_options, collapse = ", "))
-        } else {
-          # 理论上不会出现，因为正确答案总是最高（ask_high 为 TRUE时）
-          explanation <- paste(option, "is the highest among the selected options.")
-        }
-      } else {
-        # 如果题目问最低程度，则比当前选项低的选项在排序中位于其前面
-        lower_options <- sorted_selected[which(seq_along(sorted_selected) < current_rank)]
-        if (length(lower_options) > 0) {
-          explanation <- paste(option, "is higher than", paste(lower_options, collapse = ", "))
-        } else {
-          # 理论上不会出现，因为正确答案总是最低（ask_high 为 FALSE时）
-          explanation <- paste(option, "is the lowest among the selected options.")
-        }
-      }
-      cat(paste0("- [", option, "]{ data-explanation=\"", explanation, "\" }\n"))
+      explanation <- paste0("Incorrect. ", opt, " belongs to the ", tolower(opt_level), " level.")
+      cat(paste0("- [", opt, "]{ data-explanation=\"", explanation, "\" }\n"))
     }
   }
   cat("\n")
 }
 
-generate_quiz_questions <- function(n, data) {
-  set.seed(Sys.time())
-  for (i in 1:n) {
-    generate_quiz_question(data)
+# For each emotion in the data frame, generate one question per level.
+# You can adjust 'n_distractors' here to change the number of distractor options.
+generate_quiz_questions <- function() {
+  for (i in 1:nrow(emotions_df)) {
+    emotion <- emotions_df$Emotion[i]
+    for (lev in c("Mild", "Moderate", "High")) {
+      generate_question(emotion, emotions_df[i, ], lev, n_distractors = 3)
+    }
   }
 }
+
