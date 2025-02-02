@@ -55,7 +55,7 @@ generate_question <- function(emotion, row_data, target_level, n_distractors = 2
   correct_option <- sample(target_variants, 1)
   
   # Build the full explanation for a correct answer: show all valid phrases from the target level.
-  full_explanation <- paste0("Correct. ", paste(target_variants, collapse = ", "), ' can be used for ', tolower(target_level) , 'of ', tolower(emotion))
+  full_explanation <- paste0("Correct. ", paste(target_variants, collapse = ", "), ' can be used for ', tolower(target_level) , ' of ', tolower(emotion))
   
   # --- Build the distractor pool ---
   # The distractor pool is made up of variants from the other (non-target) levels.
