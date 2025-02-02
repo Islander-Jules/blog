@@ -1,45 +1,150 @@
 [
   {
-    "objectID": "posts/chinese_new_year_2025/index.html",
-    "href": "posts/chinese_new_year_2025/index.html",
-    "title": "Happy Chinese New Year 2025!",
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-happiness",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-happiness",
+    "title": "Quiz about emotions",
+    "section": "1 Which represents the lowest level of happiness?",
+    "text": "1 Which represents the lowest level of happiness?\n\necstatic\ncheerful\njoyful\nhappy\nelated"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness",
+    "title": "Quiz about emotions",
+    "section": "2 Which represents the highest level of sadness?",
+    "text": "2 Which represents the highest level of sadness?\n\nsad\ndepressed\nsorrowful\nmiserable\nheartbroken"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness-1",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness-1",
+    "title": "Quiz about emotions",
+    "section": "3 Which represents the highest level of sadness?",
+    "text": "3 Which represents the highest level of sadness?\n\nsad\nunhappy\ndejected\nsorrowful\ngloomy"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-sadness",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-sadness",
+    "title": "Quiz about emotions",
+    "section": "4 Which represents the lowest level of sadness?",
+    "text": "4 Which represents the lowest level of sadness?\n\nunhappy\nsorrowful\ndepressed\nsad\ngloomy"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-happiness",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-happiness",
+    "title": "Quiz about emotions",
+    "section": "5 Which represents the highest level of happiness?",
+    "text": "5 Which represents the highest level of happiness?\n\nelated\ncheerful\njoyful\nhappy\nthrilled"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-happiness-1",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-happiness-1",
+    "title": "Quiz about emotions",
+    "section": "6 Which represents the highest level of happiness?",
+    "text": "6 Which represents the highest level of happiness?\n\ncheerful\nelated\noverjoyed\njoyful\ndelighted"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-sadness-1",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-sadness-1",
+    "title": "Quiz about emotions",
+    "section": "7 Which represents the lowest level of sadness?",
+    "text": "7 Which represents the lowest level of sadness?\n\nsorrowful\nmiserable\ngloomy\nunhappy\ndepressed"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-happiness-2",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-happiness-2",
+    "title": "Quiz about emotions",
+    "section": "8 Which represents the highest level of happiness?",
+    "text": "8 Which represents the highest level of happiness?\n\noverjoyed\ncheerful\njoyful\nthrilled\ndelighted"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness-2",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness-2",
+    "title": "Quiz about emotions",
+    "section": "9 Which represents the highest level of sadness?",
+    "text": "9 Which represents the highest level of sadness?\n\ndepressed\nmiserable\ndejected\ngloomy\nheartbroken"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness-3",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness-3",
+    "title": "Quiz about emotions",
+    "section": "10 Which represents the highest level of sadness?",
+    "text": "10 Which represents the highest level of sadness?\n\ndepressed\nunhappy\ngloomy\nsad\ndejected"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-happiness-1",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-happiness-1",
+    "title": "Quiz about emotions",
+    "section": "11 Which represents the lowest level of happiness?",
+    "text": "11 Which represents the lowest level of happiness?\n\noverjoyed\njoyful\nhappy\necstatic\nelated"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness-4",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness-4",
+    "title": "Quiz about emotions",
+    "section": "12 Which represents the highest level of sadness?",
+    "text": "12 Which represents the highest level of sadness?\n\ngloomy\ndepressed\nmiserable\nsorrowful\nsad"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-sadness-2",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-sadness-2",
+    "title": "Quiz about emotions",
+    "section": "13 Which represents the lowest level of sadness?",
+    "text": "13 Which represents the lowest level of sadness?\n\ngloomy\nheartbroken\nsad\nsorrowful\ndepressed"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-happiness-2",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-happiness-2",
+    "title": "Quiz about emotions",
+    "section": "14 Which represents the lowest level of happiness?",
+    "text": "14 Which represents the lowest level of happiness?\n\noverjoyed\ncheerful\nelated\necstatic\nhappy"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-sadness-3",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-sadness-3",
+    "title": "Quiz about emotions",
+    "section": "15 Which represents the lowest level of sadness?",
+    "text": "15 Which represents the lowest level of sadness?\n\nsad\nheartbroken\nunhappy\nsorrowful\ngloomy"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-sadness-4",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-sadness-4",
+    "title": "Quiz about emotions",
+    "section": "16 Which represents the lowest level of sadness?",
+    "text": "16 Which represents the lowest level of sadness?\n\ndepressed\nsorrowful\nunhappy\nmiserable\nheartbroken"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-happiness-3",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-lowest-level-of-happiness-3",
+    "title": "Quiz about emotions",
+    "section": "17 Which represents the lowest level of happiness?",
+    "text": "17 Which represents the lowest level of happiness?\n\nhappy\noverjoyed\ncheerful\nthrilled\nelated"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-happiness-3",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-happiness-3",
+    "title": "Quiz about emotions",
+    "section": "18 Which represents the highest level of happiness?",
+    "text": "18 Which represents the highest level of happiness?\n\noverjoyed\njoyful\nelated\necstatic\ncheerful"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness-5",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-sadness-5",
+    "title": "Quiz about emotions",
+    "section": "19 Which represents the highest level of sadness?",
+    "text": "19 Which represents the highest level of sadness?\n\nmiserable\ndejected\ndepressed\nheartbroken\ngloomy"
+  },
+  {
+    "objectID": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-happiness-4",
+    "href": "quizes/emotion_quiz_part1/index.html#which-represents-the-highest-level-of-happiness-4",
+    "title": "Quiz about emotions",
+    "section": "20 Which represents the highest level of happiness?",
+    "text": "20 Which represents the highest level of happiness?\n\noverjoyed\nhappy\njoyful\ncheerful\necstatic"
+  },
+  {
+    "objectID": "posts/idioms-part1/index.html",
+    "href": "posts/idioms-part1/index.html",
+    "title": "Emotions (Part 1)",
     "section": "",
-    "text": "This year, the festivities begin on Wednesday, Jan. 29, 2025, marking the arrival of the Year of the Snake 🐍, according to the Chinese zodiac. The Chinese zodiac follows a 12-year cycle, with each year associated with a specific animal. The 12 animals in this cycle are: Rat 🐀, Ox 🐂, Tiger 🐅, Rabbit 🐇, Dragon 🐉, Snake 🐍, Horse 🐎, Goat 🐐, Monkey 🐒, Rooster 🐓, Dog 🐕, and Pig 🐖. The Snake 🐍 is the sixth animal in the cycle, following the Dragon 🐉, which is considered the most auspicious of all zodiac signs. Because of this, the Year of the Snake is sometimes referred to as the “Little Dragon Year.”\nSee also All you need to know about Year of the Snake\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "posts/idioms-part2/index.html",
-    "href": "posts/idioms-part2/index.html",
-    "title": "Idioms (Part 2)",
-    "section": "",
-    "text": "1 Common idioms in English\n\n\n\n\n\n\n\n\n\nID\nIdiom\nMeaning\nExample\n\n\n\n\n1\nHang in there\nDon’t give up.\n“Hang in there, things will get better.”\n\n\n2\nMake a long story short\nTo tell something briefly.\n“Make a long story short, we missed the train.”\n\n\n3\nNo pain, no gain\nYou have to work for what you want.\n“No pain, no gain. If you want to get fit, you have to exercise.”\n\n\n4\nPull someone’s leg\nTo joke with someone.\n“I was just pulling your leg. I didn’t really win the lottery.”\n\n\n5\nTo make matters worse\nMake a problem worse.\n“To make matters worse, it started to rain.”\n\n\n6\nWe’ll cross that bridge when we come to it\nLet’s not talk about that problem right now.\n“We’ll cross that bridge when we come to it*. Let’s focus on finishing this project first.”\n\n\n7\nWrap your head around something\nUnderstand something complicated.\n“I’m still trying to wrap my head around this new technology.”\n\n\n8\nActions speak louder than words\nWhat you do is more important than what you say.\n“He always promises to help, but his actions speak louder than words.”\n\n\n9\nAdd fuel to the fire\nTo make a situation worse.\n“His criticism just added fuel to the fire and made her even angrier.”\n\n\n10\nAll hands on deck\nEveryone needs to help.\n“It’s time for all hands on deck to clean up after the party.”\n\n\n11\nApple of my eye\nSomeone or something that is very special and loved.\n“Her little dog is the apple of her eye.”\n\n\n12\nBack to square one\nTo have to start over again.\n“Our plan didn’t work, so we have to go back to square one.”\n\n\n13\nBarking up the wrong tree\nTo be looking for the answer in the wrong place.\n“You’re barking up the wrong tree. He wouldn’t have done that.”\n\n\n14\nBend over backwards\nTo try very hard to help or please someone.\n“I bent over backwards to make sure she was happy.”\n\n\n15\nCost an arm and a leg\nTo be very expensive.\n“That car cost me an arm and a leg.”\n\n\n16\nCry over spilled milk\nTo worry about something that has already happened and cannot be changed.\n“Don’t cry over spilled milk. Just clean it up and move on.”\n\n\n17\nCuriosity killed the cat\nBeing too curious can get you into trouble.\n“Don’t be so curious. Curiosity killed the cat.”\n\n\n18\nFace the music\nTo accept the consequences of your actions.\n“I know I made a mistake, so I’m ready to face the music.”\n\n\n19\nFirst come, first served\nThe first people in line will get what they want.\n“Tickets for the concert are first come, first served.”\n\n\n20\nGet a taste of your own medicine\nTo experience the same unpleasant treatment that you have given to others.\n“He was always playing pranks on me, so I decided to give him a taste of his own medicine.”\n\n\n21\nGive someone the cold shoulder\nTo ignore someone deliberately.\n“I gave him the cold shoulder after he lied to me.”\n\n\n22\nHold your horses\nTo wait a moment; be patient.\n“Hold your horses! I’m not finished talking.”\n\n\n23\nIn a nutshell\nBriefly and concisely.\n“In a nutshell, the plan is to increase sales by 20%.”\n\n\n24\nIt takes two to tango\nBoth people involved in a situation are responsible for it.\n“It takes two to tango. You can’t blame him for the argument if you were also part of it.”\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jules",
-    "section": "",
-    "text": "Hello there and welcome 👋!\nI’m Jules, a native English speaker  and polyglot originally from the UK . I am currently a Masters degree student in China studying Traditional Chinese Medicine . I primarily focus in Acupuncture and academic research. A little about me is that I’m a humble and simple individual, I’m a big fan of art, and I definitely enjoy the small things in life!\nI have a passion for helping others improve their language skills. Whether you’re a beginner or an advanced learner, I’m here to provide you with high-quality resources, engaging lessons, and expert guidance on your English learning journey. Explore my website to find a wealth of resources, including grammar explanations, vocabulary lists, reading comprehension exercises, and much more. Learning English can be a challenging but rewarding experience, and I’m here to make it fun and accessible. I believe in a personalized approach to learning, so you’ll find a variety of resources to suit your individual needs and learning style. Let the fun begin, and let’s learn English together!"
-  },
-  {
-    "objectID": "index.html#languages-i-can-speak",
-    "href": "index.html#languages-i-can-speak",
-    "title": "Jules",
-    "section": "Languages I can speak:",
-    "text": "Languages I can speak:\n\n English (native)\n French\n Creole\n Spanish\n Chinese"
-  },
-  {
-    "objectID": "index.html#teaching-focuses",
-    "href": "index.html#teaching-focuses",
-    "title": "Jules",
-    "section": "Teaching focuses:",
-    "text": "Teaching focuses:\n\ngrammar explanations\nvocabulary lists\nreading comprehension exercises"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nGeneral Emotions\n\n\n\n\n\nEmotions are the vibrant colors that paint our lives. They are complex and ever-changing, driving our thoughts, behaviors, and interactions with the world around us. \n\n\n\n\n\nFriday, the 31st of January, 2025\n\n\nJules\n\n\n4 min\n\n\n\n\n\n\n\n\n\n\n\n\nHappy Chinese New Year 2025!\n\n\n\n\n\nYear of the Snake \n\n\n\n\n\nWednesday, the 29th of January, 2025\n\n\nJules\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nIdioms (Part 2)\n\n\n\n\n\nIdioms are phrases that have a figurative meaning that is different from the literal meaning of the individual words. All languages have their own idioms to express a situation. This tutorial will go through some basic aspects of most commonly used idioms in English. \n\n\n\n\n\nFriday, the 24th of January, 2025\n\n\nJules\n\n\n7 min\n\n\n\n\n\n\n\n\n\n\n\n\nEmotions (Part 1)\n\n\n\n\n\nIdioms are phrases that have a figurative meaning that is different from the literal meaning of the individual words. All languages have their own idioms to express a situation. This tutorial will go through some basic aspects of most commonly used idioms in English. \n\n\n\n\n\nTuesday, the 21st of January, 2025\n\n\nJules\n\n\n3 min\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "1 What are idioms\nIdioms are phrases that have a figurative meaning that is different from the literal meaning of the individual words. All languages have their own idioms to express a situation.\n\nLiteral meaning: The actual, dictionary definition of each word.\nFigurative meaning: The implied or metaphorical meaning of the phrase as a whole.\n\n\"lt's raining cats and dogs\"\n\nLiteral meaning: Animals are falling from the sky! (Obviously not true)\nFigurative meaning: lt’s raining very heavily or in certain scenarios raining all day.\n\n\n\n2 The difference between slang and idioms\n\nSlang: Informal words or phrases used by a specific group (teenagers, gamers, etc.). - Cool words that change a lot, used bycertain groups.\n\nExamples: Chill, lit, bruh\nKey: Often changes quickly and is specific to a certain group.\n\nIdioms: Phrases with hidden meanings, like puzzles you have to figure out.\n\n\n\n3 Common idioms in English\n\n\n\n\n\n\n\n\n\nID\nIdiom\nMeaning\nExample\n\n\n\n\n1\nA blessing in disguise\nSomething good that seemed bad at first.\nLosing my job turned out to be a blessing in disguise. It forced me to pursue my passion for photography.\n\n\n2\nBeat around the bush\nTo avoid saying what you mean directly.\nStop beating around the bush and tell me what you want.\n\n\n3\nBetter late than never\nIt’s better to arrive or do something late than not at all.\nI know I’m late, but better late than never.\n\n\n4\nBreak a leg\nGood luck (especially to actors before a performance).\nBreak a leg tonight!\n\n\n5\nCall it a day\nTo stop working on something for the day.\nI’m tired. Let’s call it a day and go home.”\n\n\n6\nCutting corners\nDoing something poorly in order to save time or money.\nThe contractor cut corners on the construction, and now the house is falling.\n\n\n7\nEasy does it\nSlow down.\nEasy does it! You’re going too fast.\n\n\n8\nGet out of hand\nTo get out of control.\nThe party got out of hand and the neighbors complained.\n\n\n9\nGet something out of your system\nTo do the thing you’ve been wanting to do so you can move on.\nI finally got skydiving out of my system.\n\n\n10\nGet your act together\nTo work better or leave.\nYou need to get your act together if you want to keep this job.\n\n\n11\nGive someone the benefit of the doubt\nTo trust what someone says.\nI’m going to give him the benefit of the doubt and believe his explanation.\n\n\n12\nHit the sack\nTo go to sleep.\nI’m tired. I’m going to hit the sack.\n\n\n13\nIt’s not rocket science\nIt’s not complicated.\nIt’s not rocket science, just follow the instructions.\n\n\n14\nLet someone off the hook\nTo not hold someone responsible for something.\nI’ll let you off the hook this time, but don’t let it happen again.\n\n\n15\nPull yourself together\nCalm down.\nPull yourself together! There’s no need to cry.\n\n\n16\nSo far so good\nThings are going well so far.\nSo far so good, but I’m not sure how the rest of the day will go.\n\n\n17\nSpeak of the devil\nThe person we were just talking about showed up!\nSpeak of the devil, here she is now.\n\n\n18\nThat’s the last straw\nMy patience has run out.\nThat’s the last straw. I’m not putting up with this anymore.\n\n\n19\nThe best of both worlds\nAn ideal situation.\nWorking from home gives me the best of both worlds: flexibility and a quiet workspace.\n\n\n20\nTime flies when you’re having fun\nYou don’t notice how long something lasts when it’s fun.\nTime flies when you’re having fun, I can’t believe it’s already midnight.\n\n\n21\nUnder the weather\nSick.\nI’m feeling a bit under the weather today.\n\n\n22\nYou can say that again\nThat’s true, I agree.\nYou can say that again! This is the best ice cream I’ve ever had.\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "posts/emotions-part1/index.html",
@@ -63,10 +168,52 @@
     "text": "3.2 Sad\n\n“I felt sad when it rained on my picnic, but I was heartbroken when my pet died.”\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nSad is a general feeling of unhappiness, while heartbroken is a much deeper and more intense sadness.\n\n\n\n\n“She was unhappy about the traffic delay, but she was miserable after losing her job.”\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nUnhappy is a mild form of discontent, while miserable describes a state of extreme unhappiness and discomfort.\n\n\n\n\n“He felt dejected after losing the game, but he was depressed for weeks after the breakup.”\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nDejected is a feeling of sadness and discouragement, while depressed is a more severe and persistent state of sadness."
   },
   {
-    "objectID": "posts/idioms-part1/index.html",
-    "href": "posts/idioms-part1/index.html",
-    "title": "Emotions (Part 1)",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "1 What are idioms\nIdioms are phrases that have a figurative meaning that is different from the literal meaning of the individual words. All languages have their own idioms to express a situation.\n\nLiteral meaning: The actual, dictionary definition of each word.\nFigurative meaning: The implied or metaphorical meaning of the phrase as a whole.\n\n\"lt's raining cats and dogs\"\n\nLiteral meaning: Animals are falling from the sky! (Obviously not true)\nFigurative meaning: lt’s raining very heavily or in certain scenarios raining all day.\n\n\n\n2 The difference between slang and idioms\n\nSlang: Informal words or phrases used by a specific group (teenagers, gamers, etc.). - Cool words that change a lot, used bycertain groups.\n\nExamples: Chill, lit, bruh\nKey: Often changes quickly and is specific to a certain group.\n\nIdioms: Phrases with hidden meanings, like puzzles you have to figure out.\n\n\n\n3 Common idioms in English\n\n\n\n\n\n\n\n\n\nID\nIdiom\nMeaning\nExample\n\n\n\n\n1\nA blessing in disguise\nSomething good that seemed bad at first.\nLosing my job turned out to be a blessing in disguise. It forced me to pursue my passion for photography.\n\n\n2\nBeat around the bush\nTo avoid saying what you mean directly.\nStop beating around the bush and tell me what you want.\n\n\n3\nBetter late than never\nIt’s better to arrive or do something late than not at all.\nI know I’m late, but better late than never.\n\n\n4\nBreak a leg\nGood luck (especially to actors before a performance).\nBreak a leg tonight!\n\n\n5\nCall it a day\nTo stop working on something for the day.\nI’m tired. Let’s call it a day and go home.”\n\n\n6\nCutting corners\nDoing something poorly in order to save time or money.\nThe contractor cut corners on the construction, and now the house is falling.\n\n\n7\nEasy does it\nSlow down.\nEasy does it! You’re going too fast.\n\n\n8\nGet out of hand\nTo get out of control.\nThe party got out of hand and the neighbors complained.\n\n\n9\nGet something out of your system\nTo do the thing you’ve been wanting to do so you can move on.\nI finally got skydiving out of my system.\n\n\n10\nGet your act together\nTo work better or leave.\nYou need to get your act together if you want to keep this job.\n\n\n11\nGive someone the benefit of the doubt\nTo trust what someone says.\nI’m going to give him the benefit of the doubt and believe his explanation.\n\n\n12\nHit the sack\nTo go to sleep.\nI’m tired. I’m going to hit the sack.\n\n\n13\nIt’s not rocket science\nIt’s not complicated.\nIt’s not rocket science, just follow the instructions.\n\n\n14\nLet someone off the hook\nTo not hold someone responsible for something.\nI’ll let you off the hook this time, but don’t let it happen again.\n\n\n15\nPull yourself together\nCalm down.\nPull yourself together! There’s no need to cry.\n\n\n16\nSo far so good\nThings are going well so far.\nSo far so good, but I’m not sure how the rest of the day will go.\n\n\n17\nSpeak of the devil\nThe person we were just talking about showed up!\nSpeak of the devil, here she is now.\n\n\n18\nThat’s the last straw\nMy patience has run out.\nThat’s the last straw. I’m not putting up with this anymore.\n\n\n19\nThe best of both worlds\nAn ideal situation.\nWorking from home gives me the best of both worlds: flexibility and a quiet workspace.\n\n\n20\nTime flies when you’re having fun\nYou don’t notice how long something lasts when it’s fun.\nTime flies when you’re having fun, I can’t believe it’s already midnight.\n\n\n21\nUnder the weather\nSick.\nI’m feeling a bit under the weather today.\n\n\n22\nYou can say that again\nThat’s true, I agree.\nYou can say that again! This is the best ice cream I’ve ever had.\n\n\n\n\n\n\n\n Back to top"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nGeneral Emotions\n\n\n\n\n\nEmotions are the vibrant colors that paint our lives. They are complex and ever-changing, driving our thoughts, behaviors, and interactions with the world around us. \n\n\n\n\n\nFriday, the 31st of January, 2025\n\n\nJules\n\n\n4 min\n\n\n\n\n\n\n\n\n\n\n\n\nHappy Chinese New Year 2025!\n\n\n\n\n\nYear of the Snake \n\n\n\n\n\nWednesday, the 29th of January, 2025\n\n\nJules\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nIdioms (Part 2)\n\n\n\n\n\nIdioms are phrases that have a figurative meaning that is different from the literal meaning of the individual words. All languages have their own idioms to express a situation. This tutorial will go through some basic aspects of most commonly used idioms in English. \n\n\n\n\n\nFriday, the 24th of January, 2025\n\n\nJules\n\n\n7 min\n\n\n\n\n\n\n\n\n\n\n\n\nEmotions (Part 1)\n\n\n\n\n\nIdioms are phrases that have a figurative meaning that is different from the literal meaning of the individual words. All languages have their own idioms to express a situation. This tutorial will go through some basic aspects of most commonly used idioms in English. \n\n\n\n\n\nTuesday, the 21st of January, 2025\n\n\nJules\n\n\n3 min\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "quiz.html",
+    "href": "quiz.html",
+    "title": "Quiz",
+    "section": "",
+    "text": "Quiz about emotions\n\n\nHappiness and Sadness\n\n\n\n\n\n\n\n\nSunday, the 2nd of February, 2025\n\n\nJules\n\n\n1 min\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jules",
+    "section": "",
+    "text": "Hello there and welcome 👋!\nI’m Jules, a native English speaker  and polyglot originally from the UK . I am currently a Masters degree student in China studying Traditional Chinese Medicine . I primarily focus in Acupuncture and academic research. A little about me is that I’m a humble and simple individual, I’m a big fan of art, and I definitely enjoy the small things in life!\nI have a passion for helping others improve their language skills. Whether you’re a beginner or an advanced learner, I’m here to provide you with high-quality resources, engaging lessons, and expert guidance on your English learning journey. Explore my website to find a wealth of resources, including grammar explanations, vocabulary lists, reading comprehension exercises, and much more. Learning English can be a challenging but rewarding experience, and I’m here to make it fun and accessible. I believe in a personalized approach to learning, so you’ll find a variety of resources to suit your individual needs and learning style. Let the fun begin, and let’s learn English together!"
+  },
+  {
+    "objectID": "index.html#languages-i-can-speak",
+    "href": "index.html#languages-i-can-speak",
+    "title": "Jules",
+    "section": "Languages I can speak:",
+    "text": "Languages I can speak:\n\n English (native)\n French\n Creole\n Spanish\n Chinese"
+  },
+  {
+    "objectID": "index.html#teaching-focuses",
+    "href": "index.html#teaching-focuses",
+    "title": "Jules",
+    "section": "Teaching focuses:",
+    "text": "Teaching focuses:\n\ngrammar explanations\nvocabulary lists\nreading comprehension exercises"
+  },
+  {
+    "objectID": "posts/idioms-part2/index.html",
+    "href": "posts/idioms-part2/index.html",
+    "title": "Idioms (Part 2)",
+    "section": "",
+    "text": "1 Common idioms in English\n\n\n\n\n\n\n\n\n\nID\nIdiom\nMeaning\nExample\n\n\n\n\n1\nHang in there\nDon’t give up.\n“Hang in there, things will get better.”\n\n\n2\nMake a long story short\nTo tell something briefly.\n“Make a long story short, we missed the train.”\n\n\n3\nNo pain, no gain\nYou have to work for what you want.\n“No pain, no gain. If you want to get fit, you have to exercise.”\n\n\n4\nPull someone’s leg\nTo joke with someone.\n“I was just pulling your leg. I didn’t really win the lottery.”\n\n\n5\nTo make matters worse\nMake a problem worse.\n“To make matters worse, it started to rain.”\n\n\n6\nWe’ll cross that bridge when we come to it\nLet’s not talk about that problem right now.\n“We’ll cross that bridge when we come to it*. Let’s focus on finishing this project first.”\n\n\n7\nWrap your head around something\nUnderstand something complicated.\n“I’m still trying to wrap my head around this new technology.”\n\n\n8\nActions speak louder than words\nWhat you do is more important than what you say.\n“He always promises to help, but his actions speak louder than words.”\n\n\n9\nAdd fuel to the fire\nTo make a situation worse.\n“His criticism just added fuel to the fire and made her even angrier.”\n\n\n10\nAll hands on deck\nEveryone needs to help.\n“It’s time for all hands on deck to clean up after the party.”\n\n\n11\nApple of my eye\nSomeone or something that is very special and loved.\n“Her little dog is the apple of her eye.”\n\n\n12\nBack to square one\nTo have to start over again.\n“Our plan didn’t work, so we have to go back to square one.”\n\n\n13\nBarking up the wrong tree\nTo be looking for the answer in the wrong place.\n“You’re barking up the wrong tree. He wouldn’t have done that.”\n\n\n14\nBend over backwards\nTo try very hard to help or please someone.\n“I bent over backwards to make sure she was happy.”\n\n\n15\nCost an arm and a leg\nTo be very expensive.\n“That car cost me an arm and a leg.”\n\n\n16\nCry over spilled milk\nTo worry about something that has already happened and cannot be changed.\n“Don’t cry over spilled milk. Just clean it up and move on.”\n\n\n17\nCuriosity killed the cat\nBeing too curious can get you into trouble.\n“Don’t be so curious. Curiosity killed the cat.”\n\n\n18\nFace the music\nTo accept the consequences of your actions.\n“I know I made a mistake, so I’m ready to face the music.”\n\n\n19\nFirst come, first served\nThe first people in line will get what they want.\n“Tickets for the concert are first come, first served.”\n\n\n20\nGet a taste of your own medicine\nTo experience the same unpleasant treatment that you have given to others.\n“He was always playing pranks on me, so I decided to give him a taste of his own medicine.”\n\n\n21\nGive someone the cold shoulder\nTo ignore someone deliberately.\n“I gave him the cold shoulder after he lied to me.”\n\n\n22\nHold your horses\nTo wait a moment; be patient.\n“Hold your horses! I’m not finished talking.”\n\n\n23\nIn a nutshell\nBriefly and concisely.\n“In a nutshell, the plan is to increase sales by 20%.”\n\n\n24\nIt takes two to tango\nBoth people involved in a situation are responsible for it.\n“It takes two to tango. You can’t blame him for the argument if you were also part of it.”\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts/chinese_new_year_2025/index.html",
+    "href": "posts/chinese_new_year_2025/index.html",
+    "title": "Happy Chinese New Year 2025!",
+    "section": "",
+    "text": "This year, the festivities begin on Wednesday, Jan. 29, 2025, marking the arrival of the Year of the Snake 🐍, according to the Chinese zodiac. The Chinese zodiac follows a 12-year cycle, with each year associated with a specific animal. The 12 animals in this cycle are: Rat 🐀, Ox 🐂, Tiger 🐅, Rabbit 🐇, Dragon 🐉, Snake 🐍, Horse 🐎, Goat 🐐, Monkey 🐒, Rooster 🐓, Dog 🐕, and Pig 🐖. The Snake 🐍 is the sixth animal in the cycle, following the Dragon 🐉, which is considered the most auspicious of all zodiac signs. Because of this, the Year of the Snake is sometimes referred to as the “Little Dragon Year.”\nSee also All you need to know about Year of the Snake\n\n\n\n Back to top"
   }
 ]
