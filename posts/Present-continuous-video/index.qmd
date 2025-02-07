@@ -1,0 +1,18 @@
+---
+title: "Present Continuous"
+description: |
+  The present continuous, also called the present progressive or present imperfect, 
+  is a verb form used in modern English that combines the present tense with the continuous aspect. 
+  It is formed by the present tense form of be and the present participle of a verb.
+date: "2025-02-07"
+date-modified: last-modified
+categories: [tutor, English, video]
+image: Present-Continuous.png
+image-alt: |
+  Present Continuous
+toc-depth: 5
+---
+
+```{=html}
+<iframe src="https://1drv.ms/v/c/259d7e333b35feb4/IQREKewe0cVIRphI_ACMQibVAcBYz7wCHMIluKzoJ9Fnzso" width="640" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
+```
